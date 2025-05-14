@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejaskumar25
 - 👀 I’m interested in coding and gameing
-- 🌱 I’m currently learning fullstack
+- 🌱 I’m currently learning UI fullstack
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me on ig:tejasjain_25
 - 😄 Pronouns: ...
